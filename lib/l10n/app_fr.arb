@@ -1,0 +1,12 @@
+{
+  "@@locale": "fr",
+  "welcome": "Bienvenue",
+  "consultation": "Consultation Vidéo",
+  "prescriptions": "Mes Ordonnances",
+  "@consultation": {
+    "description": "Service de consultation médicale à distance"
+  },
+  "@prescriptions": {
+    "description": "Liste des médicaments prescrits"
+  }
+}

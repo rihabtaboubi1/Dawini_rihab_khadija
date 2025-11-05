@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375472168414",
+    "project_id": "telemedecineapp-d3890",
+    "storage_bucket": "telemedecineapp-d3890.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375472168414:android:9aa205e9d90befcfcdd14f",
+        "android_client_info": {
+          "package_name": "com.example.otlobni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxblaJrh5o-DWhdCCiovTUK_tjZDwJGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

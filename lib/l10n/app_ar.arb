@@ -1,0 +1,12 @@
+{
+  "@@locale": "ar",
+  "welcome": "مرحباً",
+  "consultation": "استشارة فيديو",
+  "prescriptions": "وصفاتي الطبية",
+  "@consultation": {
+    "description": "خدمة الاستشارة الطبية عن بعد"
+  },
+  "@prescriptions": {
+    "description": "قائمة الأدوية الموصوفة"
+  }
+}
