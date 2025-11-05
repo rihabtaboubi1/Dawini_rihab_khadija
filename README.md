@@ -81,8 +81,8 @@ At the end of the consultation:
 - Third-party services: **Agora**, **Botpress**, **Firebase**
 ## 📸 Screenshots
 
-![WelcomePage](assets/1.png)
-![AboutUsPage](assets/2.png)
+![WelcomePage](assets/1.jpg)
+![AboutUsPage](assets/2.jpg)
 
 
 
