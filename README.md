@@ -1,5 +1,3 @@
-# Dawini_rihab_khadija  
-**Telemedicine Mobile App**  
 
 # 🩺 Dawini — Telemedicine Mobile App
 
